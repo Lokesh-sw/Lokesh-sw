@@ -1,4 +1,6 @@
-👋 Hi, I’m Lokesh Swami <img src="https://clipground.com/images/node-js-logo-11.gif" width="100px">
+<img src="https://clipground.com/images/node-js-logo-11.gif" width="400px"><br>
+👋 Hi, I’m Lokesh Swami 
+
 - 👀 I’m interested in learning, travelling and becoming a creative developer.
 - 🌱 I’m currently learning front-end web development at Hack your futute, Denamark. I find coding really fun and it never fails to keep me engaged all the time. 
 - Im hoping to work as front end developer and learn more and more in different frameworks and be part of most amazing projects.
