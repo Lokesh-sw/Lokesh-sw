@@ -1,4 +1,4 @@
-<a href="http://www.linkedin.com/in/lokesh-swami-a28515ba" target_blank><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" width="30px"></a>
+<a href="http://www.linkedin.com/in/lokesh-swami-a28515ba" target="_blank"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" width="30px"></a>
 
 👋 Hi, I’m Lokesh swami. 
 - 👀 I’m interested in learning, travelling and becoming a creative developer.
