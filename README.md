@@ -5,10 +5,9 @@
 - 
 -  💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- <a href="http://www.linkedin.com/in/lokesh-swami-a28515ba"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" width="30px"></a>
-- 
--   91400622 or
-<img src="https://www.thewellproject.org/sites/default/files/media/email%20logo.jpg" width="30px"> lokesh_swami@yahoo.co.uk 
+<a href="http://www.linkedin.com/in/lokesh-swami-a28515ba"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" width="30px"></a>
+<img src="https://www.logolynx.com/images/logolynx/95/95451b7384babe14ce5030badd7b0291.png" width="30px">  91400622
+<img src="https://www.logolynx.com/images/logolynx/c7/c7076127e9f68296f973bd84b0a31bd8.png" width="30px"> lokesh_swami@yahoo.co.uk 
 
 
 <!---
