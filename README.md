@@ -1,4 +1,8 @@
-<img src="https://clipground.com/images/node-js-logo-11.gif" width="400px"><br>
+<style>
+  * {
+  font-size:50px;
+  </style>
+  <img src="https://clipground.com/images/node-js-logo-11.gif" width="400px"><br>
 👋 Hi, I’m Lokesh Swami 
 
 - 👀 I’m interested in learning, travelling and becoming a creative developer.
