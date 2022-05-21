@@ -4,7 +4,7 @@
 - Im hoping to work as front end developer and learn more and more in different frameworks and be part of most amazing projects.
 - 
 -  💞️ LAnguages and frameworks i'm currently learning...<br>
--  <img src="https://deltafonts.com/wp-content/uploads/HTML-5-Logo.jpg" width="60px"><img src="http://devlup.com/wp-content/uploads/2013/07/css-logo.jpg" width="60px" height="60px"><img src="https://codingthesmartway.com/wp-content/uploads/2020/07/logo_javascript_2.jpg" width="50px"><img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" width="50px"><br>
+-  <img src="https://deltafonts.com/wp-content/uploads/HTML-5-Logo.jpg" width="60px"><img src="http://devlup.com/wp-content/uploads/2013/07/css-logo.jpg" width="60px" height="60px"><img src="https://codingthesmartway.com/wp-content/uploads/2020/07/logo_javascript_2.jpg" width="60px"><img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" width="60px"><img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" width="60px"><br>
 
 
 📫 How to reach me<br>
