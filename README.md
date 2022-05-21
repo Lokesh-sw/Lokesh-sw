@@ -4,7 +4,7 @@
 - Im hoping to work as front end developer and learn more and more in different frameworks and be part of most amazing projects.
 - 
 -  💞️ LAnguages and frameworks i'm currently learning...<br>
--  <img src="https://deltafonts.com/wp-content/uploads/HTML-5-Logo.jpg" width="30"px>
+-  <img src="https://deltafonts.com/wp-content/uploads/HTML-5-Logo.jpg" width="30px">
 -  <img src="https://arundanielk.com/skills/css.svg" width="30px"> 
 - 📫 How to reach me<br>
 <a href="http://www.linkedin.com/in/lokesh-swami-a28515ba"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" width="30px"></a><br>
